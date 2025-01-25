@@ -4056,7 +4056,7 @@ dependencies = [
  "serde",
  "thiserror",
  "token-factory-api",
- "ucs03-zkgm-msg",
+ "ucs03-zkgm-token-minter-api",
 ]
 
 [[package]]
@@ -6283,7 +6283,7 @@ dependencies = [
  "serde_json",
  "thiserror",
  "token-factory-api",
- "ucs03-zkgm-msg",
+ "ucs03-zkgm-token-minter-api",
  "unionlabs",
 ]
 
@@ -7953,7 +7953,7 @@ dependencies = [
  "cosmwasm-schema 1.5.8",
  "cosmwasm-std 1.5.8",
  "token-factory-api",
- "ucs03-zkgm-msg",
+ "ucs03-zkgm-token-minter-api",
 ]
 
 [[package]]
@@ -12679,7 +12679,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "ucs03-zkgm-msg"
+name = "ucs03-zkgm-token-minter-api"
 version = "0.1.0"
 dependencies = [
  "cosmwasm-schema 1.5.8",
