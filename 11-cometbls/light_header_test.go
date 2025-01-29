@@ -20,3 +20,4 @@ func TestLightHeaderExists(t *testing.T) {
 
 	fmt.Printf("LightHeader struct tanımlı ve içeriği: %+v\n", header)
 }
+ 
